@@ -8,7 +8,8 @@
  * This is the documentation for DPEng's BMX160 driver for the
  * Arduino platform.  It is designed specifically to work with the
  * DPEng BMX160 breakout:
- * [AMAZON & EBAY BMX160 BREAKOUT BOARD PRODUCT LINKS ARE COMING SOON!!!]
+ * https://www.ebay.co.uk/itm/323835783928
+ * [AMAZON BMX160 BREAKOUT BOARD PRODUCT LINK IS COMING SOON!!!]
  *
  * These sensors use I2C to communicate, 2 pins (SCL+SDA) are required
  * to interface with the breakout. SPI is also possible with <2 MBIT/s speeds.
