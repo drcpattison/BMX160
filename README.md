@@ -7,6 +7,8 @@ DP Eng's BMX160 Breakout Board is specifically developed for this library with 3
 
 <b><a href="https://www.amazon.co.uk/DP-Eng-BMX160-Breakout-Board/dp/B07TDXV5DP">DP Eng BMX160 Breakout Board Amazon.co.uk</a></b>
 
+<b><a href="https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMX160-DS000.pdf">Bosch BMX160 Datasheet</a></b>
+
 <img src="https://i.ebayimg.com/images/g/Ez0AAOSw~PBdBhe3/s-l1600.jpg" />
 The DP Eng BMX160 Breakout Board
 
