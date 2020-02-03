@@ -5,7 +5,7 @@ DP Eng's BMX160 Breakout Board is specifically developed for this library with 3
 
 <b><a href="https://www.ebay.co.uk/itm/323835783928">DP Eng BMX160 Breakout Board eBay Link with tracked international shipping</a></b>
 
-<b>DP Eng BMX160 Breakout Board Amazon.co.uk Link coming soon</b>
+<b><a href="https://www.amazon.co.uk/DP-Eng-BMX160-Breakout-Board/dp/B07TDXV5DP">DP Eng BMX160 Breakout Board Amazon.co.uk</a></b>
 
 <img src="https://i.ebayimg.com/images/g/Ez0AAOSw~PBdBhe3/s-l1600.jpg" />
 The DP Eng BMX160 Breakout Board
